@@ -1,0 +1,55 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: linear-gradient(45deg , rgb(22, 22, 51),rgb(149, 67, 255));
+    color: white;
+    height: 700px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    height: 400px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    background-color: rgb(19, 19, 19,0.4);
+    box-shadow: 0px 2px 5px; 
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+    
+}
+tr {
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    width: 80px;
+}
+
+th {
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    width: 80px;
+}
+
+thead {
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    height: 50px;
+}
+
+td {
+    border-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+}
