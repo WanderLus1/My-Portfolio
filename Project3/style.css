@@ -1,0 +1,48 @@
+body {
+    background:linear-gradient(45deg ,rgb(10, 10, 10) ,rgb(87, 87, 87)) ;
+    height: 800px;
+    color: white;
+    text-align: center;
+    
+h1 {
+    font-size: 50px;
+    font-family: 'Lucida Sans';
+}
+}
+table {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    background-color: rgb(255, 255, 255 , 0.07) ;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.9);
+
+}
+
+tr {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    
+}
+
+td {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    text-align: center;
+}
+
+th {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    
+}
